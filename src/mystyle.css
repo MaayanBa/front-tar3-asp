@@ -1,0 +1,41 @@
+.form {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.containerTable {
+    width: 700px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* .cartTable{
+    /* text-align: center;
+    justify-content:center; */
+
+.headerTable {
+    text-align: center;
+}
+
+.btnBuy {
+    margin: auto;
+    display: block;
+}
+#navbar{
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.listPurchaseTable{
+    width: 700px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btnTY{
+    margin: auto;
+    display: block;
+}
